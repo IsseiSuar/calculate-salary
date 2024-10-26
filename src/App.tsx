@@ -19,7 +19,6 @@ function App() {
   const disabledButton = weeklyHours !== 0 && amount !== 0 && dailyHours !== 0;
 
   const calculateSalary = () => {
-    debugger
     const weeklySalary = weeklyHours * hourPrice;
     const extra = extraHours();
     const late = lateEntriesValue();
