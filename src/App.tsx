@@ -22,7 +22,6 @@ function App() {
     const weeklySalary = weeklyHours * hourPrice;
     const extra = extraHours();
     const late = lateEntriesValue();
-    ;
     setTotal(weeklySalary + extra - late)
 
   }
