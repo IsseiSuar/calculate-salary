@@ -15,12 +15,6 @@ Esta es una pequeña aplicación web creada con **React + Vite + TypeScript** qu
 
 ---
 
-## 📸 Capturas de pantalla
-
-(Si deseas agregar capturas de pantalla, puedes usar esta sección)
-
----
-
 ## 🧮 ¿Cómo se calcula el salario?
 
 La fórmula general es:
